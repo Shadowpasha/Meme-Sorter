@@ -1,0 +1,22 @@
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\Meme Sorter.csprojAssemblyReference.cache
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\Meme_Sorter.Form1.resources
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\Meme_Sorter.Properties.Resources.resources
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\Meme Sorter.csproj.GenerateResource.cache
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\Meme Sorter.csproj.CoreCompileInputs.cache
+D:\Meme Sorter\Meme Sorter\Meme Sorter\bin\Debug\Meme Sorter.exe.config
+D:\Meme Sorter\Meme Sorter\Meme Sorter\bin\Debug\Meme Sorter.exe
+D:\Meme Sorter\Meme Sorter\Meme Sorter\bin\Debug\Meme Sorter.pdb
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\Meme Sorter.exe
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\Meme Sorter.pdb
+D:\Meme Sorter\Meme Sorter\Meme Sorter\bin\Debug\Meme Sorter.exe.manifest
+D:\Meme Sorter\Meme Sorter\Meme Sorter\bin\Debug\Meme Sorter.application
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\Meme Sorter.exe.manifest
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\Meme Sorter.application
+D:\Meme Sorter\Meme Sorter\Meme Sorter\bin\Debug\Interop.WMPLib.dll
+D:\Meme Sorter\Meme Sorter\Meme Sorter\bin\Debug\AxInterop.WMPLib.dll
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\Interop.WMPLib.dll
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\AxInterop.WMPLib.dll
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\Meme Sorter.csproj.ResolveComReference.cache
+D:\Meme Sorter\Meme Sorter\Meme Sorter\bin\Debug\MetroFramework.dll
+D:\Meme Sorter\Meme Sorter\Meme Sorter\bin\Debug\MetroFramework.Fonts.dll
+D:\Meme Sorter\Meme Sorter\Meme Sorter\obj\Debug\Meme Sorter.csproj.CopyComplete
